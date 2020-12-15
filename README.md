@@ -1,2 +1,2 @@
 # DataScience_Learning
-This repository if created for learning Data Science
+This repository is created for learning Data Science
